@@ -818,6 +818,21 @@
       },
       "license": "MIT",
       "version": "3.3.0"
+    },
+    {
+      "name": "claude-code-clock",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/adrianR84/claude-code-clock"
+      },
+      "description": "A Claude Code plugin that tracks time spent coding. It automatically injects the current wall-clock time into every assistant turn, solving problems like duration hallucination and stale process blindness.",
+      "category": "productivity",
+      "repository": "https://github.com/adrianR84/claude-code-clock",
+      "keywords": [],
+      "author": {
+        "name": "AdrianR84"
+      },
+      "license": "MIT"
     }
   ]
 }
