@@ -38,7 +38,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [wiki-skills](#wiki-skills) | 1.0.0 | Kenny Chou | LLM-maintained personal wiki skills |
 | [llm-wiki-compiler](#llm-wiki-compiler) | 2.0 | Sumant | Compiles markdown into topic-based wiki |
 | [skill-bus](#skill-bus) | 0.7.0 | Joey Nguyen | Connect context, conditions, and skills |
-| [minimal-claude](#minimal-claude) | 1.6.1 | KenKaiii | Auto-configures linting, typechecking, and fixing |
+| [minimal-claude](#minimal-claude) | 1.7.0 | KenKaiii | Auto-configures linting, typechecking, and fixing |
 | [tdd-guard](#tdd-guard) | 2.1.0 | Nizar Selander | Test-Driven Development enforcement |
 | [micro-skill-pipeline](#micro-skill-pipeline) | 1.0.0 | stevesolun | Gated micro-pipeline for quality checks |
 | [banana-claude](#banana-claude) | 1.4.1 | AgriciDaniel | AI image generation Creative Director |
@@ -351,7 +351,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/KenKaiii/minimal-claude" target="_blank">KenKaiii/minimal-claude</a>
 - **Keywords**: linting, typechecking, fixing, commit, quality, automation
 - **License**: MIT
-- **Version**: 1.6.1
+- **Version**: 1.7.0
 - **Installation**:
   ```bash
   /plugin install minimal-claude@claude-code-awesome
