@@ -36,7 +36,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [memsearch](#memsearch) | 0.7.3 | Zilliz | Automatic semantic memory for Claude Code |
 | [remember](#remember) | 0.7.1 | Digital Process Tools | Continuous memory for Claude Code |
 | [wiki-skills](#wiki-skills) | 1.0.0 | Kenny Chou | LLM-maintained personal wiki skills |
-| [llm-wiki-compiler](#llm-wiki-compiler) | 2.0 | Sumant | Compiles markdown into topic-based wiki |
+| [llm-wiki-compiler](#llm-wiki-compiler) | 2.1.0 | Sumant | Compiles markdown into topic-based wiki |
 | [skill-bus](#skill-bus) | 0.7.0 | Joey Nguyen | Connect context, conditions, and skills |
 | [minimal-claude](#minimal-claude) | 1.7.0 | KenKaiii | Auto-configures linting, typechecking, and fixing |
 | [tdd-guard](#tdd-guard) | 2.1.0 | Nizar Selander | Test-Driven Development enforcement |
@@ -64,13 +64,13 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [all-permissions](#all-permissions) | 1.0.3 | adrianR84 | Auto-approves tool calls after security scanning |
 | [agentops](#agentops) | 3.0.1 | boshu2 | The operational layer for coding agents |
 | [last30days](#last30days) | 3.3.1 | Matt Van Horn | Research any topic across Reddit, X, YouTube, HN, and more |
-| [understand-anything](#understand-anything) | 2.3.1 | Lum1104 | Interactive knowledge graphs for codebase understanding |
+| [understand-anything](#understand-anything) | 2.7.6 | Lum1104 | Interactive knowledge graphs for codebase understanding |
 | [everything-claude-code](#everything-claude-code) | 2.0.0-rc.1 | Affaan Mustafa | Agent harness performance optimization system |
 | [token-optimizer](#token-optimizer) | 5.8.10 | Alex Greenshpun | Audit and monitor Claude Code context window usage |
 | [marketingskills](#marketingskills) | 2.3.0 | Corey Haines | 40 marketing skills for AI agents |
 | [obsidian-mind](#obsidian-mind) | 1.0.1 | breferrari | Obsidian vault with persistent memory for AI agents |
 | [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
-| [agentmemory](#agentmemory) | 0.9.9 | Rohit Ghumare | Persistent memory for AI coding agents |
+| [agentmemory](#agentmemory) | 3.3.0 | Rohit Ghumare | Persistent memory for AI coding agents |
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
 | [claude-code-clock](#claude-code-clock) | 1.0.0 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 
@@ -317,7 +317,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/ussumant/llm-wiki-compiler" target="_blank">ussumant/llm-wiki-compiler</a>
 - **Keywords**: wiki, knowledge, markdown, karpathy, knowledge-base
 - **License**: MIT
-- **Version**: 2.0
+- **Version**: 2.1.0
 - **Installation**:
   ```bash
   /plugin install llm-wiki-compiler@claude-code-awesome
@@ -792,7 +792,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/Lum1104/Understand-Anything" target="_blank">Lum1104/Understand-Anything</a>
 - **Keywords**: knowledge-graph, knowledge-base, codex, karpathy, wiki, memory, codebase-analysis
 - **License**: MIT
-- **Version**: 2.3.1
+- **Version**: 2.7.6
 - **Installation**:
   ```bash
   /plugin install understand-anything@claude-code-awesome
@@ -893,7 +893,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/rohitg00/agentmemory" target="_blank">rohitg00/agentmemory</a>
 - **Keywords**: memory, persistence, context, session, compression, lifetime, ai-agents
 - **License**: Apache-2.0
-- **Version**: 0.9.9
+- **Version**: 3.3.0
 - **Installation**:
   ```bash
   /plugin install agentmemory@claude-code-awesome
