@@ -31,43 +31,43 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [rss-aggregator](#rss-aggregator) | 1.0.4 | adrianR84 | RSS feed aggregation and article extraction |
 | [my-mcps](#my-mcps) | 1.0.2 | adrianR84 | MCP server integrations |
 | [andrej-karpathy-skills](#andrej-karpathy-skills) | 1.0.0 | forrestchang | Behavioral guidelines to reduce LLM coding mistakes |
-| [claude-code-skills](#claude-code-skills) | 1.0.3 | AdrianR84 | A collection of skills for Claude Code |
-| [claude-mem](#claude-mem) | 12.6.0 | Alex Newman | Persistent memory system for Claude Code |
-| [memsearch](#memsearch) | 0.4.1 | Zilliz | Automatic semantic memory for Claude Code |
+| [claude-code-skills](#claude-code-skills) | 1.7.0 | AdrianR84 | A collection of skills for Claude Code |
+| [claude-mem](#claude-mem) | 13.4.0 | Alex Newman | Persistent memory system for Claude Code |
+| [memsearch](#memsearch) | 0.7.3 | Zilliz | Automatic semantic memory for Claude Code |
 | [remember](#remember) | 0.7.1 | Digital Process Tools | Continuous memory for Claude Code |
 | [wiki-skills](#wiki-skills) | 1.0.0 | Kenny Chou | LLM-maintained personal wiki skills |
 | [llm-wiki-compiler](#llm-wiki-compiler) | 2.0 | Sumant | Compiles markdown into topic-based wiki |
 | [skill-bus](#skill-bus) | 0.7.0 | Joey Nguyen | Connect context, conditions, and skills |
 | [minimal-claude](#minimal-claude) | 1.6.1 | KenKaiii | Auto-configures linting, typechecking, and fixing |
-| [tdd-guard](#tdd-guard) | 1.4.1 | Nizar Selander | Test-Driven Development enforcement |
+| [tdd-guard](#tdd-guard) | 2.1.0 | Nizar Selander | Test-Driven Development enforcement |
 | [micro-skill-pipeline](#micro-skill-pipeline) | 1.0.0 | stevesolun | Gated micro-pipeline for quality checks |
 | [banana-claude](#banana-claude) | 1.4.1 | AgriciDaniel | AI image generation Creative Director |
-| [claude-seo](#claude-seo) | 1.9.6 | AgriciDaniel | Comprehensive SEO analysis skill |
-| [claude-ads](#claude-ads) | 1.5.1 | AgriciDaniel | Paid advertising audit & optimization |
-| [claude-obsidian](#claude-obsidian) | 1.6.0 | AgriciDaniel | Claude + Obsidian knowledge companion |
+| [claude-seo](#claude-seo) | 2.0.0 | AgriciDaniel | Comprehensive SEO analysis skill |
+| [claude-ads](#claude-ads) | 1.7.0 | AgriciDaniel | Paid advertising audit & optimization |
+| [claude-obsidian](#claude-obsidian) | 1.9.2 | AgriciDaniel | Claude + Obsidian knowledge companion |
 | [claude-prompts](#claude-prompts) | 1.0.0 | AgriciDaniel | AI prompt database and builder |
 | [prompt-mini](#prompt-mini) | 0.1.0 | nidhinjs | Forges weak prompts into structured prompts |
 | [obsidian](#obsidian) | 1.0.1 | Steph Ango | Claude Skills for Obsidian |
 | [atlas](#atlas) | 0.2.0 | pacifio | Atlas design language skill |
-| [beads](#beads) | 1.0.3 | Steve Yegge | Distributed graph issue tracker for AI agents |
-| [agent-session-resume](#agent-session-resume) | 0.1.1 | hacktivist123 | Reconstruct and continue prior AI coding-agent sessions |
-| [waza-health](#waza-health) | 3.17.0 | Tw93 | Audits Claude Code config stack |
-| [waza-think](#waza-think) | 3.17.0 | Tw93 | Turns rough ideas into approved plans |
-| [waza-check](#waza-check) | 3.20.0 | Tw93 | Reviews code diffs, auto-fixes safe issues |
-| [waza-hunt](#waza-hunt) | 3.19.0 | Tw93 | Finds root cause of errors and crashes |
-| [waza-design](#waza-design) | 3.19.0 | Tw93 | Produces distinctive production-grade UI |
-| [waza-read](#waza-read) | 3.14.0 | Tw93 | Fetches URLs/PDFs as clean Markdown |
-| [waza-write](#waza-write) | 3.18.0 | Tw93 | Strips AI writing patterns, sounds natural |
-| [waza-learn](#waza-learn) | 3.15.0 | Tw93 | Six-phase research workflow |
-| [design-extract](#design-extract) | 1.0.0 | Manavarya Singh | Extract design language from any website |
+| [beads](#beads) | 1.0.5 | Steve Yegge | Distributed graph issue tracker for AI agents |
+| [agent-session-resume](#agent-session-resume) | 1.0.0 | hacktivist123 | Reconstruct and continue prior AI coding-agent sessions |
+| [waza-health](#waza-health) | 3.27.0 | Tw93 | Audits Claude Code config stack |
+| [waza-think](#waza-think) | 3.27.0 | Tw93 | Turns rough ideas into approved plans |
+| [waza-check](#waza-check) | 3.27.0 | Tw93 | Reviews code diffs, auto-fixes safe issues |
+| [waza-hunt](#waza-hunt) | 3.27.0 | Tw93 | Finds root cause of errors and crashes |
+| [waza-design](#waza-design) | 3.27.0 | Tw93 | Produces distinctive production-grade UI |
+| [waza-read](#waza-read) | 3.27.0 | Tw93 | Fetches URLs/PDFs as clean Markdown |
+| [waza-write](#waza-write) | 3.27.0 | Tw93 | Strips AI writing patterns, sounds natural |
+| [waza-learn](#waza-learn) | 3.27.0 | Tw93 | Six-phase research workflow |
+| [design-extract](#design-extract) | 12.10.1 | Manavarya Singh | Extract design language from any website |
 | [claude-flow](#claude-flow) | 2.5.0 | rUv | Enterprise AI agent orchestration |
-| [all-permissions](#all-permissions) | 1.0.2 | adrianR84 | Auto-approves tool calls after security scanning |
-| [agentops](#agentops) | 2.39.0 | boshu2 | The operational layer for coding agents |
-| [last30days](#last30days) | 3.1.1 | Matt Van Horn | Research any topic across Reddit, X, YouTube, HN, and more |
+| [all-permissions](#all-permissions) | 1.0.3 | adrianR84 | Auto-approves tool calls after security scanning |
+| [agentops](#agentops) | 3.0.1 | boshu2 | The operational layer for coding agents |
+| [last30days](#last30days) | 3.3.1 | Matt Van Horn | Research any topic across Reddit, X, YouTube, HN, and more |
 | [understand-anything](#understand-anything) | 2.3.1 | Lum1104 | Interactive knowledge graphs for codebase understanding |
 | [everything-claude-code](#everything-claude-code) | 2.0.0-rc.1 | Affaan Mustafa | Agent harness performance optimization system |
-| [token-optimizer](#token-optimizer) | 5.6.5 | Alex Greenshpun | Audit and monitor Claude Code context window usage |
-| [marketingskills](#marketingskills) | 1.9.0 | Corey Haines | 40 marketing skills for AI agents |
+| [token-optimizer](#token-optimizer) | 5.8.10 | Alex Greenshpun | Audit and monitor Claude Code context window usage |
+| [marketingskills](#marketingskills) | 2.3.0 | Corey Haines | 40 marketing skills for AI agents |
 | [obsidian-mind](#obsidian-mind) | 1.0.1 | breferrari | Obsidian vault with persistent memory for AI agents |
 | [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
 | [agentmemory](#agentmemory) | 0.9.9 | Rohit Ghumare | Persistent memory for AI coding agents |
@@ -232,7 +232,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/adrianR84/claude-code-skills" target="_blank">adrianR84/claude-code-skills</a>
 - **Keywords**: skills
 - **License**: MIT
-- **Version**: 1.0.3
+- **Version**: 1.7.0
 - **Installation**:
   ```bash
   /plugin install claude-code-skills@claude-code-awesome
@@ -249,7 +249,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/thedotmack/claude-mem" target="_blank">thedotmack/claude-mem</a>
 - **Keywords**: memory, persistence, context, session, compression
 - **License**: AGPL-3.0
-- **Version**: 12.6.0
+- **Version**: 13.4.0
 - **Installation**:
   ```bash
   /plugin install claude-mem@claude-code-awesome
@@ -266,7 +266,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/zilliztech/memsearch" target="_blank">zilliztech/memsearch</a>
 - **Keywords**: memory, semantic-search, milvus, markdown
 - **License**: MIT
-- **Version**: 0.4.1
+- **Version**: 0.7.3
 - **Installation**:
   ```bash
   /plugin install memsearch@claude-code-awesome
@@ -368,7 +368,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/nizos/tdd-guard" target="_blank">nizos/tdd-guard</a>
 - **Keywords**: tdd, hooks, automation, code-quality, claude-code, agentic-coding
 - **License**: MIT
-- **Version**: 1.4.1
+- **Version**: 2.1.0
 - **Installation**:
   ```bash
   /plugin install tdd-guard@claude-code-awesome
@@ -419,7 +419,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/AgriciDaniel/claude-seo" target="_blank">AgriciDaniel/claude-seo</a>
 - **Keywords**: seo, marketing-automation, technical-seo, e-e-a-t, schema, backlinks
 - **License**: MIT
-- **Version**: 1.9.6
+- **Version**: 2.0.0
 - **Installation**:
   ```bash
   /plugin install claude-seo@claude-code-awesome
@@ -436,7 +436,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/AgriciDaniel/claude-ads" target="_blank">AgriciDaniel/claude-ads</a>
 - **Keywords**: advertising, marketing-automation, ai-marketing, google-ads, meta-ads
 - **License**: MIT
-- **Version**: 1.5.1
+- **Version**: 1.7.0
 - **Installation**:
   ```bash
   /plugin install claude-ads@claude-code-awesome
@@ -453,7 +453,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/AgriciDaniel/claude-obsidian" target="_blank">AgriciDaniel/claude-obsidian</a>
 - **Keywords**: obsidian, second-brain, knowledge-management, wiki
 - **License**: MIT
-- **Version**: 1.6.0
+- **Version**: 1.9.2
 - **Installation**:
   ```bash
   /plugin install claude-obsidian@claude-code-awesome
@@ -538,7 +538,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/gastownhall/beads" target="_blank">gastownhall/beads</a>
 - **Keywords**: coding, agents, claude-code
 - **License**: MIT
-- **Version**: 1.0.3
+- **Version**: 1.0.5
 - **Installation**:
   ```bash
   /plugin install beads@claude-code-awesome
@@ -555,7 +555,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/hacktivist123/agent-session-resume" target="_blank">hacktivist123/agent-session-resume</a>
 - **Keywords**: agent-skills, handoff, session-resume, claude-code, coding-agents
 - **License**: MIT
-- **Version**: 0.1.1
+- **Version**: 1.0.0
 - **Installation**:
   ```bash
   /plugin install agent-session-resume@claude-code-awesome
@@ -572,7 +572,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: config, auditing, hooks, mcp, debugging
 - **License**: MIT
-- **Version**: 3.17.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-health@claude-code-awesome
@@ -589,7 +589,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: planning, architecture, decision-making, skills
 - **License**: MIT
-- **Version**: 3.17.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-think@claude-code-awesome
@@ -606,7 +606,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: code-review, security, architecture, auto-fix
 - **License**: MIT
-- **Version**: 3.20.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-check@claude-code-awesome
@@ -623,7 +623,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: debugging, error-fixing, troubleshooting, testing
 - **License**: MIT
-- **Version**: 3.19.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-hunt@claude-code-awesome
@@ -640,7 +640,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: ui, design, frontend, css, components
 - **License**: MIT
-- **Version**: 3.19.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-design@claude-code-awesome
@@ -657,7 +657,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: web-fetching, pdf, markdown, content-extraction
 - **License**: MIT
-- **Version**: 3.14.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-read@claude-code-awesome
@@ -674,7 +674,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: writing, editing, natural-language, chinese, english
 - **License**: MIT
-- **Version**: 3.18.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-write@claude-code-awesome
@@ -691,7 +691,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: research, learning, workflow, writing
 - **License**: MIT
-- **Version**: 3.15.0
+- **Version**: 3.27.0
 - **Installation**:
   ```bash
   /plugin install waza-learn@claude-code-awesome
@@ -708,7 +708,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/Manavarya09/design-extract" target="_blank">Manavarya09/design-extract</a>
 - **Keywords**: design-system, design-tokens, css, tailwind, typography, colors, web-scraping
 - **License**: MIT
-- **Version**: 1.0.0
+- **Version**: 12.10.1
 - **Installation**:
   ```bash
   /plugin install design-extract@claude-code-awesome
@@ -742,7 +742,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/adrianR84/claude-code-all-permissions" target="_blank">adrianR84/claude-code-all-permissions</a>
 - **Keywords**: security, permissions, auto-approve, injection-prevention, prompt-injection
 - **License**: MIT
-- **Version**: 1.0.2
+- **Version**: 1.0.3
 - **Installation**:
   ```bash
   /plugin install all-permissions@claude-code-awesome
@@ -759,7 +759,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/boshu2/agentops" target="_blank">boshu2/agentops</a>
 - **Keywords**: devops, cursor, codex, ai-agents, claude, vibe-coding, claude-code, claude-code-plugins, claude-skills, claude-marketplace, codex-plugin, opencode-plugin
 - **License**: Apache-2.0
-- **Version**: 2.39.0
+- **Version**: 3.0.1
 - **Installation**:
   ```bash
   /plugin install agentops@claude-code-awesome
@@ -775,7 +775,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Author**: Matt Van Horn
 - **Repository**: <a href="https://github.com/mvanhorn/last30days-skill" target="_blank">mvanhorn/last30days-skill</a>
 - **Keywords**: reddit, youtube, twitter, hackernews, polymarket, research, web-search, tiktok, instagram, trends
-- **Version**: 3.1.1
+- **Version**: 3.3.1
 - **Installation**:
   ```bash
   /plugin install last30days@claude-code-awesome
@@ -826,7 +826,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/coreyhaines31/marketingskills" target="_blank">coreyhaines31/marketingskills</a>
 - **Keywords**: marketing, cro, copywriting, seo, cold-email, paid-ads, analytics, churn, growth, revops, sales, pricing
 - **License**: MIT
-- **Version**: 1.9.0
+- **Version**: 2.3.0
 - **Installation**:
   ```bash
   /plugin install marketingskills@claude-code-awesome
@@ -843,7 +843,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/alexgreensh/token-optimizer" target="_blank">alexgreensh/token-optimizer</a>
 - **Keywords**: token, optimization, context, audit, cost, coach
 - **License**: PolyForm-Noncommercial-1.0.0
-- **Version**: 5.6.5
+- **Version**: 5.8.10
 - **Installation**:
   ```bash
   /plugin install token-optimizer@claude-code-awesome

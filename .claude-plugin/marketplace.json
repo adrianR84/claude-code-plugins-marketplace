@@ -162,7 +162,7 @@
         "name": "Alex Newman"
       },
       "license": "AGPL-3.0",
-      "version": "12.6.0"
+      "version": "13.4.0"
     },
     {
       "name": "remember",
@@ -211,7 +211,7 @@
         "name": "AdrianR84"
       },
       "license": "MIT",
-      "version": "1.0.3"
+      "version": "1.7.0"
     },
     {
       "name": "minimal-claude",
@@ -277,7 +277,7 @@
         "name": "Nizar Selander"
       },
       "license": "MIT",
-      "version": "1.4.1"
+      "version": "2.1.0"
     },
     {
       "name": "skill-bus",
@@ -311,7 +311,7 @@
         "name": "Zilliz"
       },
       "license": "MIT",
-      "version": "0.4.1"
+      "version": "0.7.3"
     },
     {
       "name": "banana-claude",
@@ -343,7 +343,7 @@
         "name": "AgriciDaniel"
       },
       "license": "MIT",
-      "version": "1.9.6"
+      "version": "2.0.0"
     },
     {
       "name": "claude-ads",
@@ -359,7 +359,7 @@
         "name": "AgriciDaniel"
       },
       "license": "MIT",
-      "version": "1.5.1"
+      "version": "1.7.0"
     },
     {
       "name": "claude-obsidian",
@@ -375,7 +375,7 @@
         "name": "AgriciDaniel"
       },
       "license": "MIT",
-      "version": "1.6.0"
+      "version": "1.9.2"
     },
     {
       "name": "claude-prompts",
@@ -457,7 +457,7 @@
         "name": "Steve Yegge"
       },
       "license": "MIT",
-      "version": "1.0.3"
+      "version": "1.0.5"
     },
     {
       "name": "agent-session-resume",
@@ -473,7 +473,7 @@
         "name": "hacktivist123"
       },
       "license": "MIT",
-      "version": "0.1.1"
+      "version": "1.0.0"
     },
     {
       "name": "waza-health",
@@ -490,7 +490,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.17.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-think",
@@ -507,7 +507,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.16.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-check",
@@ -524,7 +524,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.20.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-hunt",
@@ -541,7 +541,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.19.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-design",
@@ -558,7 +558,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.19.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-read",
@@ -575,7 +575,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.14.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-write",
@@ -592,7 +592,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.18.0"
+      "version": "3.27.0"
     },
     {
       "name": "waza-learn",
@@ -609,7 +609,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.15.0"
+      "version": "3.27.0"
     },
     {
       "name": "design-extract",
@@ -625,7 +625,7 @@
         "name": "Manavarya Singh"
       },
       "license": "MIT",
-      "version": "1.0.0"
+      "version": "12.10.1"
     },
     {
       "name": "claude-flow",
@@ -657,7 +657,7 @@
         "name": "adrianR84"
       },
       "license": "MIT",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
     {
       "name": "agentops",
@@ -673,7 +673,7 @@
         "name": "Boden Fuller"
       },
       "license": "Apache-2.0",
-      "version": "2.39.0"
+      "version": "3.0.1"
     },
     {
       "name": "understand-anything",
@@ -705,7 +705,7 @@
       "author": {
         "name": "Matt Van Horn"
       },
-      "version": "3.1.1"
+      "version": "3.3.1"
     },
     {
       "name": "everything-claude-code",
@@ -737,7 +737,7 @@
         "name": "Alex Greenshpun"
       },
       "license": "PolyForm-Noncommercial-1.0.0",
-      "version": "5.6.5"
+      "version": "5.8.10"
     },
     {
       "name": "marketingskills",
@@ -753,7 +753,7 @@
         "name": "Corey Haines"
       },
       "license": "MIT",
-      "version": "1.9.0"
+      "version": "2.3.0"
     },
     {
       "name": "obsidian-mind",
