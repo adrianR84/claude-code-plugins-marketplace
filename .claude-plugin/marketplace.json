@@ -832,7 +832,8 @@
       "author": {
         "name": "AdrianR84"
       },
-      "license": "MIT"
+      "license": "MIT",
+      "version": "1.0.0"
     }
   ]
 }

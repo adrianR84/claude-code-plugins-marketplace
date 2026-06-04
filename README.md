@@ -72,7 +72,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
 | [agentmemory](#agentmemory) | 0.9.9 | Rohit Ghumare | Persistent memory for AI coding agents |
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
-| [claude-code-clock](#claude-code-clock) | - | AdrianR84 | Tracks time spent coding, injects wall-clock time |
+| [claude-code-clock](#claude-code-clock) | 1.0.0 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 
 ### Telegram Notifications
 
@@ -926,6 +926,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Author**: AdrianR84
 - **Repository**: <a href="https://github.com/adrianR84/claude-code-clock" target="_blank">adrianR84/claude-code-clock</a>
 - **License**: MIT
+- **Version**: 1.0.0
 - **Installation**:
   ```bash
   /plugin install claude-code-clock@claude-code-awesome
