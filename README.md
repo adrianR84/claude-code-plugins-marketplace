@@ -34,7 +34,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [claude-code-skills](#claude-code-skills) | 1.7.0 | AdrianR84 | A collection of skills for Claude Code |
 | [claude-mem](#claude-mem) | 13.4.0 | Alex Newman | Persistent memory system for Claude Code |
 | [memsearch](#memsearch) | 0.7.3 | Zilliz | Automatic semantic memory for Claude Code |
-| [remember](#remember) | 0.7.1 | Digital Process Tools | Continuous memory for Claude Code |
+| [remember](#remember) | 0.7.3 | Digital Process Tools | Continuous memory for Claude Code |
 | [wiki-skills](#wiki-skills) | 1.0.0 | Kenny Chou | LLM-maintained personal wiki skills |
 | [llm-wiki-compiler](#llm-wiki-compiler) | 2.1.0 | Sumant | Compiles markdown into topic-based wiki |
 | [skill-bus](#skill-bus) | 0.7.0 | Joey Nguyen | Connect context, conditions, and skills |
@@ -72,7 +72,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
 | [agentmemory](#agentmemory) | 3.3.0 | Rohit Ghumare | Persistent memory for AI coding agents |
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
-| [claude-code-clock](#claude-code-clock) | 1.0.0 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
+| [claude-code-clock](#claude-code-clock) | 1.0.2 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 
 ### Telegram Notifications
 
@@ -283,7 +283,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/Digital-Process-Tools/claude-remember" target="_blank">Digital-Process-Tools/claude-remember</a>
 - **Keywords**: memory, context, persistence, session
 - **License**: Community License
-- **Version**: 0.7.1
+- **Version**: 0.7.3
 - **Installation**:
   ```bash
   /plugin install remember@claude-code-awesome
@@ -926,7 +926,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Author**: AdrianR84
 - **Repository**: <a href="https://github.com/adrianR84/claude-code-clock" target="_blank">adrianR84/claude-code-clock</a>
 - **License**: MIT
-- **Version**: 1.0.0
+- **Version**: 1.0.2
 - **Installation**:
   ```bash
   /plugin install claude-code-clock@claude-code-awesome
