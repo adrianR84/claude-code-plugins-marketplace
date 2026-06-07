@@ -74,6 +74,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
 | [impeccable](#impeccable) | 3.5.0 | Paul Bakaus | Design fluency for frontend development |
 | [claude-code-clock](#claude-code-clock) | 1.0.2 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
+| [caveman](#caveman) | 1.8.2 | Julius Brussee | Ultra-compressed communication, cuts ~75% tokens |
 
 ### Telegram Notifications
 
@@ -948,6 +949,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install impeccable@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Caveman
+
+- **Name**: `caveman`
+- **Description**: Talk like caveman. Cut ~75% tokens. Keep all technical accuracy.
+- **Category**: Productivity
+- **Author**: Julius Brussee
+- **Repository**: <a href="https://github.com/JuliusBrussee/caveman" target="_blank">JuliusBrussee/caveman</a>
+- **Keywords**: ai, skill, meme, tokens, caveman, claude, llm, prompt-engineering, anthropic, claude-code
+- **License**: MIT
+- **Version**: 1.8.2
+- **Installation**:
+  ```bash
+  /plugin install caveman@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)

@@ -1175,6 +1175,33 @@
       },
       "license": "Apache-2.0",
       "version": "3.5.0"
+    },
+    {
+      "name": "caveman",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JuliusBrussee/caveman"
+      },
+      "description": "Talk like caveman. Cut ~75% tokens. Keep all technical accuracy.",
+      "category": "productivity",
+      "repository": "https://github.com/JuliusBrussee/caveman",
+      "keywords": [
+        "ai",
+        "skill",
+        "meme",
+        "tokens",
+        "caveman",
+        "claude",
+        "llm",
+        "prompt-engineering",
+        "anthropic",
+        "claude-code"
+      ],
+      "author": {
+        "name": "Julius Brussee"
+      },
+      "license": "MIT",
+      "version": "1.8.2"
     }
   ]
 }
