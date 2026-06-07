@@ -1229,6 +1229,30 @@
       },
       "license": "MIT",
       "version": "2.5.0"
+    },
+    {
+      "name": "session-orchestrator",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kanevry/session-orchestrator"
+      },
+      "description": "Wave planning, parallel subagent execution, GitLab/GitHub integration, quality gates - replaces manual session prompts with /session, /go, /close",
+      "category": "productivity",
+      "repository": "https://github.com/kanevry/session-orchestrator",
+      "keywords": [
+        "session",
+        "orchestration",
+        "waves",
+        "gitlab",
+        "github",
+        "quality-gates",
+        "subagents"
+      ],
+      "author": {
+        "name": "Bernhard Goetzendorfer"
+      },
+      "license": "MIT",
+      "version": "3.8.0"
     }
   ]
 }

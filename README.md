@@ -75,7 +75,8 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [impeccable](#impeccable) | 3.5.0 | Paul Bakaus | Design fluency for frontend development |
 | [claude-code-clock](#claude-code-clock) | 1.0.2 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 | [caveman](#caveman) | 1.8.2 | Julius Brussee | Ultra-compressed communication, cuts ~75% tokens |
-| [ui-ux-pro-max](#ui-ux-pro-max) | 2.5.0 | nextlevelbuilder | Professional UI/UX design intelligence with 67 styles
+| [ui-ux-pro-max](#ui-ux-pro-max) | 2.5.0 | nextlevelbuilder | Professional UI/UX design intelligence with 67 styles |
+| [session-orchestrator](#session-orchestrator) | 3.8.0 | Bernhard Goetzendorfer | Wave planning and parallel subagent execution |
 
 ### Telegram Notifications
 
@@ -985,6 +986,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install ui-ux-pro-max@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Session Orchestrator
+
+- **Name**: `session-orchestrator`
+- **Description**: Wave planning, parallel subagent execution, GitLab/GitHub integration, quality gates - replaces manual session prompts with /session, /go, /close
+- **Category**: Productivity
+- **Author**: Bernhard Goetzendorfer
+- **Repository**: <a href="https://github.com/kanevry/session-orchestrator" target="_blank">kanevry/session-orchestrator</a>
+- **Keywords**: session, orchestration, waves, gitlab, github, quality-gates, subagents
+- **License**: MIT
+- **Version**: 3.8.0
+- **Installation**:
+  ```bash
+  /plugin install session-orchestrator@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
