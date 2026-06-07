@@ -14,7 +14,11 @@
       "description": "Telegram notifications for Claude Code events",
       "category": "development",
       "repository": "https://github.com/adrianR84/claude-code-telegram-notifications",
-      "keywords": ["telegram", "notifications", "hooks"],
+      "keywords": [
+        "telegram",
+        "notifications",
+        "hooks"
+      ],
       "author": {
         "name": "AdrianR84"
       },
@@ -29,7 +33,10 @@
       "description": "Windows toast notifications for Claude Code events using native Windows APIs.",
       "category": "development",
       "repository": "https://github.com/TianqiZhang/claude-code-toast",
-      "keywords": ["windows toast", "notifications"],
+      "keywords": [
+        "windows toast",
+        "notifications"
+      ],
       "author": {
         "name": "TianqiZhang"
       },
@@ -44,7 +51,10 @@
       "description": "Browser automation and web scraping capabilities for Claude Code.",
       "category": "development",
       "repository": "https://github.com/adrianR84/browserless-claude-plugin",
-      "keywords": ["browser automation", "web scraping"],
+      "keywords": [
+        "browser automation",
+        "web scraping"
+      ],
       "author": {
         "name": "adrianR84"
       },
@@ -59,7 +69,9 @@
       "description": "A customizable greeting plugin for Claude Code that demonstrates user-configurable settings",
       "category": "development",
       "repository": "https://github.com/adrianR84/claude-code-greeting",
-      "keywords": ["greeting"],
+      "keywords": [
+        "greeting"
+      ],
       "author": {
         "name": "adrianR84"
       },
@@ -74,7 +86,13 @@
       "description": "Security hooks for Claude Code",
       "category": "security",
       "repository": "https://github.com/adrianR84/claude-code-protective-hooks",
-      "keywords": ["security", "hooks", "protection", "secrets", "dangerous-commands"],
+      "keywords": [
+        "security",
+        "hooks",
+        "protection",
+        "secrets",
+        "dangerous-commands"
+      ],
       "author": {
         "name": "adrianR84"
       },
@@ -89,7 +107,14 @@
       "description": "AI-powered cybersecurity code review skill for Claude Code. 8 specialist agents, OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages, zero configuration.",
       "category": "security",
       "repository": "https://github.com/AgriciDaniel/claude-cybersecurity",
-      "keywords": ["cybersecurity", "owasp", "code-review", "devsecops", "vulnerability-scanner", "appsec"],
+      "keywords": [
+        "cybersecurity",
+        "owasp",
+        "code-review",
+        "devsecops",
+        "vulnerability-scanner",
+        "appsec"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -105,7 +130,12 @@
       "description": "RSS feed aggregation and article content extraction — fetch entries and read articles as Markdown",
       "category": "productivity",
       "repository": "https://github.com/adrianR84/rss-aggregator",
-      "keywords": ["rss", "feed", "aggregator", "articles"],
+      "keywords": [
+        "rss",
+        "feed",
+        "aggregator",
+        "articles"
+      ],
       "author": {
         "name": "adrianR84"
       },
@@ -124,10 +154,12 @@
       },
       "category": "development",
       "repository": "https://github.com/adrianR84/claude-code-mcps",
-      "keywords": ["mcp", "composio", "dbhub", "plugin"],
-      "author": {
-        "name": "adrianR84"
-      },
+      "keywords": [
+        "mcp",
+        "composio",
+        "dbhub",
+        "plugin"
+      ],
       "license": "MIT",
       "version": "1.0.2"
     },
@@ -140,7 +172,12 @@
       "description": "Behavioral guidelines to reduce common LLM coding mistakes, derived from Andrej Karpathy's observations on LLM coding pitfalls",
       "category": "productivity",
       "repository": "https://github.com/forrestchang/andrej-karpathy-skills",
-      "keywords": ["guidelines", "best-practices", "coding", "karpathy"],
+      "keywords": [
+        "guidelines",
+        "best-practices",
+        "coding",
+        "karpathy"
+      ],
       "author": {
         "name": "forrestchang"
       },
@@ -157,7 +194,13 @@
       "description": "Persistent memory system for Claude Code - context compression across sessions",
       "category": "productivity",
       "repository": "https://github.com/thedotmack/claude-mem",
-      "keywords": ["memory", "persistence", "context", "session", "compression"],
+      "keywords": [
+        "memory",
+        "persistence",
+        "context",
+        "session",
+        "compression"
+      ],
       "author": {
         "name": "Alex Newman"
       },
@@ -176,7 +219,12 @@
       },
       "category": "productivity",
       "repository": "https://github.com/Digital-Process-Tools/claude-remember",
-      "keywords": ["memory", "context", "persistence", "session"],
+      "keywords": [
+        "memory",
+        "context",
+        "persistence",
+        "session"
+      ],
       "license": "Community License",
       "version": "0.7.3"
     },
@@ -190,7 +238,17 @@
       "description": "Stop writing 200-line skills that Claude skims. Convert any skill into a gated micro-pipeline with hard YES/NO quality checks.",
       "category": "development",
       "repository": "https://github.com/stevesolun/micro-skills",
-      "keywords": ["skills", "developer-tools", "code-quality", "ai-agents", "quality-gates", "claude-code", "claude-skills", "micro-skills", "skills-pipeline"],
+      "keywords": [
+        "skills",
+        "developer-tools",
+        "code-quality",
+        "ai-agents",
+        "quality-gates",
+        "claude-code",
+        "claude-skills",
+        "micro-skills",
+        "skills-pipeline"
+      ],
       "author": {
         "name": "stevesolun"
       },
@@ -206,7 +264,9 @@
       "description": "A collection of skills for Claude Code",
       "category": "productivity",
       "repository": "https://github.com/adrianR84/claude-code-skills",
-      "keywords": ["skills"],
+      "keywords": [
+        "skills"
+      ],
       "author": {
         "name": "AdrianR84"
       },
@@ -222,7 +282,14 @@
       "description": "Intelligent Claude Code plugin that auto-configures linting, typechecking, and parallel agent-based fixing.",
       "category": "development",
       "repository": "https://github.com/KenKaiii/minimal-claude",
-      "keywords": ["linting", "typechecking", "fixing", "commit", "quality", "automation"],
+      "keywords": [
+        "linting",
+        "typechecking",
+        "fixing",
+        "commit",
+        "quality",
+        "automation"
+      ],
       "author": {
         "name": "KenKaiii"
       },
@@ -238,7 +305,13 @@
       "description": "An LLM-maintained personal wiki skills project for Claude Code — implements Karpathy's LLM Wiki pattern with 5 skills: wiki-init, wiki-ingest, wiki-query, wiki-lint, wiki-update.",
       "category": "productivity",
       "repository": "https://github.com/kfchou/wiki-skills",
-      "keywords": ["wiki", "knowledge", "karpathy", "skills", "memory"],
+      "keywords": [
+        "wiki",
+        "knowledge",
+        "karpathy",
+        "skills",
+        "memory"
+      ],
       "author": {
         "name": "Kenny Chou"
       },
@@ -255,7 +328,13 @@
       "description": "Compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern.",
       "category": "productivity",
       "repository": "https://github.com/ussumant/llm-wiki-compiler",
-      "keywords": ["wiki", "knowledge", "markdown", "karpathy", "knowledge-base"],
+      "keywords": [
+        "wiki",
+        "knowledge",
+        "markdown",
+        "karpathy",
+        "knowledge-base"
+      ],
       "author": {
         "name": "Sumant"
       },
@@ -272,7 +351,14 @@
       "description": "Automated Test-Driven Development enforcement — blocks implementation without failing tests",
       "category": "development",
       "repository": "https://github.com/nizos/tdd-guard",
-      "keywords": ["tdd", "hooks", "automation", "code-quality", "claude-code", "agentic-coding"],
+      "keywords": [
+        "tdd",
+        "hooks",
+        "automation",
+        "code-quality",
+        "claude-code",
+        "agentic-coding"
+      ],
       "author": {
         "name": "Nizar Selander"
       },
@@ -289,7 +375,12 @@
       "description": "Connect context, conditions, and other skills to any skill — no modification required",
       "category": "productivity",
       "repository": "https://github.com/joeymnguyen/skill-bus",
-      "keywords": ["skills", "hooks", "subscriptions", "context"],
+      "keywords": [
+        "skills",
+        "hooks",
+        "subscriptions",
+        "context"
+      ],
       "author": {
         "name": "Joey Nguyen"
       },
@@ -306,7 +397,12 @@
       "description": "Automatic semantic memory for Claude Code — remembers what you worked on across sessions",
       "category": "productivity",
       "repository": "https://github.com/zilliztech/memsearch",
-      "keywords": ["memory", "semantic-search", "milvus", "markdown"],
+      "keywords": [
+        "memory",
+        "semantic-search",
+        "milvus",
+        "markdown"
+      ],
       "author": {
         "name": "Zilliz"
       },
@@ -322,7 +418,12 @@
       "description": "AI image generation Creative Director powered by Google Gemini Nano Banana models. Claude interprets intent, selects domain expertise, constructs optimized prompts, and orchestrates Gemini for best results.",
       "category": "productivity",
       "repository": "https://github.com/AgriciDaniel/banana-claude",
-      "keywords": ["image-generation", "ai-art", "gemini", "creative-director"],
+      "keywords": [
+        "image-generation",
+        "ai-art",
+        "gemini",
+        "creative-director"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -338,7 +439,14 @@
       "description": "Comprehensive SEO analysis skill for Claude Code. 20 core sub-skills covering technical SEO, E-E-A-T, schema markup, image optimization, GEO/AEO, backlinks, local SEO, maps intelligence, semantic topic clustering, SXO, SEO drift monitoring, e-commerce SEO, international SEO with cultural profiles, Google API integration, and PDF reporting.",
       "category": "productivity",
       "repository": "https://github.com/AgriciDaniel/claude-seo",
-      "keywords": ["seo", "marketing-automation", "technical-seo", "e-e-a-t", "schema", "backlinks"],
+      "keywords": [
+        "seo",
+        "marketing-automation",
+        "technical-seo",
+        "e-e-a-t",
+        "schema",
+        "backlinks"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -354,7 +462,13 @@
       "description": "Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation.",
       "category": "productivity",
       "repository": "https://github.com/AgriciDaniel/claude-ads",
-      "keywords": ["advertising", "marketing-automation", "ai-marketing", "google-ads", "meta-ads"],
+      "keywords": [
+        "advertising",
+        "marketing-automation",
+        "ai-marketing",
+        "google-ads",
+        "meta-ads"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -370,7 +484,12 @@
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
       "category": "productivity",
       "repository": "https://github.com/AgriciDaniel/claude-obsidian",
-      "keywords": ["obsidian", "second-brain", "knowledge-management", "wiki"],
+      "keywords": [
+        "obsidian",
+        "second-brain",
+        "knowledge-management",
+        "wiki"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -386,7 +505,11 @@
       "description": "AI prompt database and builder skill for Claude Code. 2,500+ curated prompts across 19 categories and 17 AI models.",
       "category": "productivity",
       "repository": "https://github.com/AgriciDaniel/claude-prompts",
-      "keywords": ["prompt-engineering", "prompts", "ai"],
+      "keywords": [
+        "prompt-engineering",
+        "prompts",
+        "ai"
+      ],
       "author": {
         "name": "AgriciDaniel"
       },
@@ -403,7 +526,19 @@
       "version": "0.2.0",
       "category": "design",
       "repository": "https://github.com/pacifio/ui",
-      "keywords": ["design-system", "ui", "css", "tokens", "components", "dark-theme", "amoled", "agent-ui", "ai", "shadcn", "tailwind"],
+      "keywords": [
+        "design-system",
+        "ui",
+        "css",
+        "tokens",
+        "components",
+        "dark-theme",
+        "amoled",
+        "agent-ui",
+        "ai",
+        "shadcn",
+        "tailwind"
+      ],
       "author": {
         "name": "pacifio",
         "url": "https://github.com/pacifio"
@@ -419,7 +554,12 @@
       "description": "Forges weak Claude Code prompts into structured, credit-saving, framework-aware prompts.",
       "category": "productivity",
       "repository": "https://github.com/nidhinjs/prompt-mini",
-      "keywords": ["prompts", "claude-code", "hooks", "developer-tools"],
+      "keywords": [
+        "prompts",
+        "claude-code",
+        "hooks",
+        "developer-tools"
+      ],
       "author": {
         "name": "nidhinjs"
       },
@@ -435,7 +575,13 @@
       "description": "Claude Skills for Obsidian — enables agents to work with Markdown, Bases, JSON Canvas, and the CLI.",
       "category": "productivity",
       "repository": "https://github.com/kepano/obsidian-skills",
-      "keywords": ["cli", "skills", "obsidian", "codex", "claude"],
+      "keywords": [
+        "cli",
+        "skills",
+        "obsidian",
+        "codex",
+        "claude"
+      ],
       "author": {
         "name": "Steph Ango"
       },
@@ -452,7 +598,11 @@
       "description": "AI-supervised issue tracker for coding workflows. Distributed graph issue tracker for AI agents, powered by Dolt.",
       "category": "development",
       "repository": "https://github.com/gastownhall/beads",
-      "keywords": ["coding", "agents", "claude-code"],
+      "keywords": [
+        "coding",
+        "agents",
+        "claude-code"
+      ],
       "author": {
         "name": "Steve Yegge"
       },
@@ -468,7 +618,13 @@
       "description": "Adds the agent-session-resume skill for reconstructing and continuing prior AI coding-agent sessions.",
       "category": "productivity",
       "repository": "https://github.com/hacktivist123/agent-session-resume",
-      "keywords": ["agent-skills", "handoff", "session-resume", "claude-code", "coding-agents"],
+      "keywords": [
+        "agent-skills",
+        "handoff",
+        "session-resume",
+        "claude-code",
+        "coding-agents"
+      ],
       "author": {
         "name": "hacktivist123"
       },
@@ -485,7 +641,13 @@
       "description": "Audits the full six-layer Claude Code config stack when Claude ignores instructions, behaves inconsistently, hooks malfunction, or MCP servers need auditing. Flags issues by severity.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["config", "auditing", "hooks", "mcp", "debugging"],
+      "keywords": [
+        "config",
+        "auditing",
+        "hooks",
+        "mcp",
+        "debugging"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -502,7 +664,12 @@
       "description": "Turns rough ideas into approved plans with validated structure before writing code. Covers new features, architecture decisions, and value judgments about whether to build, keep, or remove something.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["planning", "architecture", "decision-making", "skills"],
+      "keywords": [
+        "planning",
+        "architecture",
+        "decision-making",
+        "skills"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -519,7 +686,12 @@
       "description": "Reviews code diffs after implementation, auto-fixes safe issues, and runs specialist security and architecture reviewers on large diffs. Also triages issues and PRs.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["code-review", "security", "architecture", "auto-fix"],
+      "keywords": [
+        "code-review",
+        "security",
+        "architecture",
+        "auto-fix"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -536,7 +708,12 @@
       "description": "Finds root cause of errors, crashes, unexpected behavior, and failing tests before applying any fix.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["debugging", "error-fixing", "troubleshooting", "testing"],
+      "keywords": [
+        "debugging",
+        "error-fixing",
+        "troubleshooting",
+        "testing"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -553,7 +730,13 @@
       "description": "Produces distinctive, production-grade UI for any component, page, or visual interface. Handles screenshot-driven iteration when the user sends an image with a visual complaint.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["ui", "design", "frontend", "css", "components"],
+      "keywords": [
+        "ui",
+        "design",
+        "frontend",
+        "css",
+        "components"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -570,7 +753,12 @@
       "description": "Fetches any URL or PDF as clean Markdown. Handles paywalls, JS-heavy pages, X/Twitter, and Chinese platforms via proxy cascade.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["web-fetching", "pdf", "markdown", "content-extraction"],
+      "keywords": [
+        "web-fetching",
+        "pdf",
+        "markdown",
+        "content-extraction"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -587,7 +775,13 @@
       "description": "Strips AI writing patterns and rewrites prose to sound natural in Chinese or English. Only activates on explicit writing or editing requests.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["writing", "editing", "natural-language", "chinese", "english"],
+      "keywords": [
+        "writing",
+        "editing",
+        "natural-language",
+        "chinese",
+        "english"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -604,7 +798,12 @@
       "description": "Runs a six-phase research workflow to turn unfamiliar domains or collected sources into publish-ready output.",
       "category": "development",
       "repository": "https://github.com/tw93/Waza",
-      "keywords": ["research", "learning", "workflow", "writing"],
+      "keywords": [
+        "research",
+        "learning",
+        "workflow",
+        "writing"
+      ],
       "author": {
         "name": "Tw93"
       },
@@ -620,7 +819,15 @@
       "description": "Extract the complete design language from any website — colors, typography, spacing, shadows, components, and more. Outputs AI-optimized markdown, W3C design tokens, Tailwind config, and CSS variables.",
       "category": "design",
       "repository": "https://github.com/Manavarya09/design-extract",
-      "keywords": ["design-system", "design-tokens", "css", "tailwind", "typography", "colors", "web-scraping"],
+      "keywords": [
+        "design-system",
+        "design-tokens",
+        "css",
+        "tailwind",
+        "typography",
+        "colors",
+        "web-scraping"
+      ],
       "author": {
         "name": "Manavarya Singh"
       },
@@ -636,7 +843,18 @@
       "description": "Enterprise AI agent orchestration plugin with 150+ commands, 74+ specialized agents, SPARC methodology, swarm coordination, GitHub integration, and neural training capabilities.",
       "category": "development",
       "repository": "https://github.com/ruvnet/claude-flow",
-      "keywords": ["ai-agents", "swarm-intelligence", "orchestration", "sparc-methodology", "github-automation", "neural-training", "mcp-integration", "enterprise", "workflow-automation", "multi-agent"],
+      "keywords": [
+        "ai-agents",
+        "swarm-intelligence",
+        "orchestration",
+        "sparc-methodology",
+        "github-automation",
+        "neural-training",
+        "mcp-integration",
+        "enterprise",
+        "workflow-automation",
+        "multi-agent"
+      ],
       "author": {
         "name": "rUv"
       },
@@ -652,7 +870,13 @@
       "description": "Claude Code plugin for auto-approving tool calls after security scanning for prompt injections, path traversal, and other injection attacks.",
       "category": "security",
       "repository": "https://github.com/adrianR84/claude-code-all-permissions",
-      "keywords": ["security", "permissions", "auto-approve", "injection-prevention", "prompt-injection"],
+      "keywords": [
+        "security",
+        "permissions",
+        "auto-approve",
+        "injection-prevention",
+        "prompt-injection"
+      ],
       "author": {
         "name": "adrianR84"
       },
@@ -668,7 +892,20 @@
       "description": "The operational layer for coding agents. Bookkeeping, validation, and flows that compound knowledge between sessions.",
       "category": "development",
       "repository": "https://github.com/boshu2/agentops",
-      "keywords": ["devops", "cursor", "codex", "ai-agents", "claude", "vibe-coding", "claude-code", "claude-code-plugins", "claude-skills", "claude-marketplace", "codex-plugin", "opencode-plugin"],
+      "keywords": [
+        "devops",
+        "cursor",
+        "codex",
+        "ai-agents",
+        "claude",
+        "vibe-coding",
+        "claude-code",
+        "claude-code-plugins",
+        "claude-skills",
+        "claude-marketplace",
+        "codex-plugin",
+        "opencode-plugin"
+      ],
       "author": {
         "name": "Boden Fuller"
       },
@@ -685,7 +922,15 @@
       "description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about.",
       "category": "productivity",
       "repository": "https://github.com/Lum1104/Understand-Anything",
-      "keywords": ["knowledge-graph", "knowledge-base", "codex", "karpathy", "wiki", "memory", "codebase-analysis"],
+      "keywords": [
+        "knowledge-graph",
+        "knowledge-base",
+        "codex",
+        "karpathy",
+        "wiki",
+        "memory",
+        "codebase-analysis"
+      ],
       "author": {
         "name": "Lum1104"
       },
@@ -701,7 +946,18 @@
       "description": "Research any topic across Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket, GitHub, and 5+ more sources. AI agent scores by upvotes, likes, and real money - not editors.",
       "category": "productivity",
       "repository": "https://github.com/mvanhorn/last30days-skill",
-      "keywords": ["reddit", "youtube", "twitter", "hackernews", "polymarket", "research", "web-search", "tiktok", "instagram", "trends"],
+      "keywords": [
+        "reddit",
+        "youtube",
+        "twitter",
+        "hackernews",
+        "polymarket",
+        "research",
+        "web-search",
+        "tiktok",
+        "instagram",
+        "trends"
+      ],
       "author": {
         "name": "Matt Van Horn"
       },
@@ -716,7 +972,17 @@
       "description": "The agent harness performance optimization system. 48 agents, 182 skills, 68 command shims, TDD/security/review hooks, and research-first development for Claude Code, Codex, Cursor and beyond.",
       "category": "development",
       "repository": "https://github.com/affaan-m/everything-claude-code",
-      "keywords": ["agent-harness", "performance-optimization", "tdd", "security-scanning", "code-review", "skills", "agents", "harness", "anthropic-hackathon"],
+      "keywords": [
+        "agent-harness",
+        "performance-optimization",
+        "tdd",
+        "security-scanning",
+        "code-review",
+        "skills",
+        "agents",
+        "harness",
+        "anthropic-hackathon"
+      ],
       "author": {
         "name": "Affaan Mustafa"
       },
@@ -732,7 +998,14 @@
       "description": "Audit, fix, and monitor Claude Code context window usage. Find the ghost tokens.",
       "category": "productivity",
       "repository": "https://github.com/alexgreensh/token-optimizer",
-      "keywords": ["token", "optimization", "context", "audit", "cost", "coach"],
+      "keywords": [
+        "token",
+        "optimization",
+        "context",
+        "audit",
+        "cost",
+        "coach"
+      ],
       "author": {
         "name": "Alex Greenshpun"
       },
@@ -748,7 +1021,20 @@
       "description": "40 marketing skills for AI agents — CRO, copywriting, SEO, cold email, paid ads, analytics, churn prevention, pricing strategy, and growth engineering for technical marketers and founders.",
       "category": "productivity",
       "repository": "https://github.com/coreyhaines31/marketingskills",
-      "keywords": ["marketing", "cro", "copywriting", "seo", "cold-email", "paid-ads", "analytics", "churn", "growth", "revops", "sales", "pricing"],
+      "keywords": [
+        "marketing",
+        "cro",
+        "copywriting",
+        "seo",
+        "cold-email",
+        "paid-ads",
+        "analytics",
+        "churn",
+        "growth",
+        "revops",
+        "sales",
+        "pricing"
+      ],
       "author": {
         "name": "Corey Haines"
       },
@@ -764,7 +1050,13 @@
       "description": "An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.",
       "category": "productivity",
       "repository": "https://github.com/breferrari/obsidian-mind",
-      "keywords": ["obsidian", "persistent-memory", "claude-code", "codex", "gemini"],
+      "keywords": [
+        "obsidian",
+        "persistent-memory",
+        "claude-code",
+        "codex",
+        "gemini"
+      ],
       "author": {
         "name": "breferrari"
       },
@@ -780,7 +1072,13 @@
       "description": "Production-grade engineering skills for AI coding agents. 20 structured skills covering the full development lifecycle — spec writing, planning, implementation, testing, code review, and shipping.",
       "category": "development",
       "repository": "https://github.com/addyosmani/agent-skills",
-      "keywords": ["skills", "cursor", "agent-skills", "claude-code", "antigravity"],
+      "keywords": [
+        "skills",
+        "cursor",
+        "agent-skills",
+        "claude-code",
+        "antigravity"
+      ],
       "author": {
         "name": "addyosmani"
       },
@@ -796,7 +1094,15 @@
       "description": "Persistent memory for AI coding agents — captures tool usage, compresses via LLM, injects context into future sessions",
       "category": "productivity",
       "repository": "https://github.com/rohitg00/agentmemory",
-      "keywords": ["memory", "persistence", "context", "session", "compression", "lifetime", "ai-agents"],
+      "keywords": [
+        "memory",
+        "persistence",
+        "context",
+        "session",
+        "compression",
+        "lifetime",
+        "ai-agents"
+      ],
       "author": {
         "name": "Rohit Ghumare"
       },
@@ -812,7 +1118,18 @@
       "description": "Complete AI coding workflow: context engineering, agent teams, 23 hook scripts, 6 agents, 14 skills, 9 guides, cross-agent support, and searchable learnings.",
       "category": "productivity",
       "repository": "https://github.com/rohitg00/pro-workflow",
-      "keywords": ["workflow", "productivity", "self-correction", "worktrees", "hooks", "agents", "orchestration", "cross-agent", "cursor", "codex"],
+      "keywords": [
+        "workflow",
+        "productivity",
+        "self-correction",
+        "worktrees",
+        "hooks",
+        "agents",
+        "orchestration",
+        "cross-agent",
+        "cursor",
+        "codex"
+      ],
       "author": {
         "name": "Rohit Ghumare"
       },
@@ -834,6 +1151,30 @@
       },
       "license": "MIT",
       "version": "1.0.2"
+    },
+    {
+      "name": "impeccable",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/pbakaus/impeccable",
+        "path": "skill"
+      },
+      "description": "Design fluency for frontend development. 1 skill with 23 commands (/impeccable polish, /impeccable audit, /impeccable critique, etc.) and curated anti-pattern detection.",
+      "category": "design",
+      "repository": "https://github.com/pbakaus/impeccable",
+      "keywords": [
+        "design",
+        "frontend",
+        "ui",
+        "ux",
+        "skills",
+        "commands"
+      ],
+      "author": {
+        "name": "Paul Bakaus"
+      },
+      "license": "Apache-2.0",
+      "version": "3.5.0"
     }
   ]
 }

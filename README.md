@@ -72,6 +72,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
 | [agentmemory](#agentmemory) | 3.3.0 | Rohit Ghumare | Persistent memory for AI coding agents |
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
+| [impeccable](#impeccable) | 3.5.0 | Paul Bakaus | Design fluency for frontend development |
 | [claude-code-clock](#claude-code-clock) | 1.0.2 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 
 ### Telegram Notifications
@@ -930,6 +931,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install claude-code-clock@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Impeccable
+
+- **Name**: `impeccable`
+- **Description**: Design fluency for frontend development. 1 skill with 23 commands (/impeccable polish, /impeccable audit, /impeccable critique, etc.) and curated anti-pattern detection.
+- **Category**: Design
+- **Author**: Paul Bakaus
+- **Repository**: <a href="https://github.com/pbakaus/impeccable" target="_blank">pbakaus/impeccable</a>
+- **Keywords**: design, frontend, ui, ux, skills, commands
+- **License**: Apache-2.0
+- **Version**: 3.5.0
+- **Installation**:
+  ```bash
+  /plugin install impeccable@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
