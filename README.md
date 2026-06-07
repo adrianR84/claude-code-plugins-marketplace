@@ -69,12 +69,13 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [token-optimizer](#token-optimizer) | 5.8.10 | Alex Greenshpun | Audit and monitor Claude Code context window usage |
 | [marketingskills](#marketingskills) | 2.3.0 | Corey Haines | 40 marketing skills for AI agents |
 | [obsidian-mind](#obsidian-mind) | 1.0.1 | breferrari | Obsidian vault with persistent memory for AI agents |
-| [agent-skills](#agent-skills) | - | addyosmani | Production-grade engineering skills for AI coding agents |
+| [agent-skills](#agent-skills) | 0.6.1 | addyosmani | Production-grade engineering skills for AI coding agents |
 | [agentmemory](#agentmemory) | 3.3.0 | Rohit Ghumare | Persistent memory for AI coding agents |
 | [pro-workflow](#pro-workflow) | 3.3.0 | Rohit Ghumare | Complete AI coding workflow with hooks and agents |
 | [impeccable](#impeccable) | 3.5.0 | Paul Bakaus | Design fluency for frontend development |
 | [claude-code-clock](#claude-code-clock) | 1.0.2 | AdrianR84 | Tracks time spent coding, injects wall-clock time |
 | [caveman](#caveman) | 1.8.2 | Julius Brussee | Ultra-compressed communication, cuts ~75% tokens |
+| [ui-ux-pro-max](#ui-ux-pro-max) | 2.5.0 | nextlevelbuilder | Professional UI/UX design intelligence with 67 styles
 
 ### Telegram Notifications
 
@@ -879,6 +880,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a>
 - **Keywords**: skills, cursor, agent-skills, claude-code, antigravity
 - **License**: MIT
+- **Version**: 0.6.1
 - **Installation**:
   ```bash
   /plugin install agent-skills@claude-code-awesome
@@ -966,6 +968,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install caveman@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### UI/UX Pro Max
+
+- **Name**: `ui-ux-pro-max`
+- **Description**: Professional UI/UX design intelligence for AI coding assistants. Includes searchable databases of styles, colors, typography, charts, and UX guidelines for React, Next.js, Astro, Vue, Nuxt.js, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui, and Jetpack Compose.
+- **Category**: Design
+- **Author**: nextlevelbuilder
+- **Repository**: <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank">nextlevelbuilder/ui-ux-pro-max-skill</a>
+- **Keywords**: ui, ux, design, styles, typography, color-palette, accessibility, charts, components
+- **License**: MIT
+- **Version**: 2.5.0
+- **Installation**:
+  ```bash
+  /plugin install ui-ux-pro-max@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
