@@ -77,6 +77,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [caveman](#caveman) | 1.8.2 | Julius Brussee | Ultra-compressed communication, cuts ~75% tokens |
 | [ui-ux-pro-max](#ui-ux-pro-max) | 2.5.0 | nextlevelbuilder | Professional UI/UX design intelligence with 67 styles |
 | [session-orchestrator](#session-orchestrator) | 3.8.0 | Bernhard Goetzendorfer | Wave planning and parallel subagent execution |
+| [agent-wallet](#agent-wallet) | 0.1.43 | AgentLayer | Claude Code bridge for AgentLayer wallet runtime |
 
 ### Telegram Notifications
 
@@ -1003,6 +1004,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install session-orchestrator@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Agent Wallet
+
+- **Name**: `agent-wallet`
+- **Description**: Claude Code bridge for the existing AgentLayer wallet runtime. Connects to Solana, Bitcoin, and EVM wallets without creating a new one.
+- **Category**: Development
+- **Author**: AgentLayer
+- **Repository**: <a href="https://github.com/lopushok9/Agent-Layer" target="_blank">lopushok9/Agent-Layer</a>
+- **Keywords**: wallet, solana, bitcoin, evm, agentlayer
+- **License**: PolyForm Small Business License 1.0.0
+- **Version**: 0.1.43
+- **Installation**:
+  ```bash
+  /plugin install agent-wallet@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)

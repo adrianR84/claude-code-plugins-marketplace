@@ -1253,6 +1253,29 @@
       },
       "license": "MIT",
       "version": "3.8.0"
+    },
+    {
+      "name": "agent-wallet",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/lopushok9/Agent-Layer",
+        "path": "claude-code/plugins/agent-wallet"
+      },
+      "description": "Claude Code bridge for the existing AgentLayer wallet runtime. Connects to Solana, Bitcoin, and EVM wallets without creating a new one.",
+      "category": "development",
+      "repository": "https://github.com/lopushok9/Agent-Layer",
+      "keywords": [
+        "wallet",
+        "solana",
+        "bitcoin",
+        "evm",
+        "agentlayer"
+      ],
+      "author": {
+        "name": "AgentLayer"
+      },
+      "license": "PolyForm Small Business License 1.0.0",
+      "version": "0.1.43"
     }
   ]
 }
