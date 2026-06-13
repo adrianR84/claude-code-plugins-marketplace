@@ -40,7 +40,7 @@
       "author": {
         "name": "TianqiZhang"
       },
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "name": "browserless",
@@ -182,7 +182,7 @@
         "name": "forrestchang"
       },
       "license": "MIT",
-      "version": "1.0.0"
+      "version": "1.0.2"
     },
     {
       "name": "claude-mem",
@@ -514,7 +514,7 @@
         "name": "AgriciDaniel"
       },
       "license": "MIT",
-      "version": "1.0.0"
+      "version": "2.2.0"
     },
     {
       "name": "atlas",
@@ -674,7 +674,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-check",
@@ -696,7 +696,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-hunt",
@@ -718,7 +718,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-design",
@@ -741,7 +741,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-read",
@@ -763,7 +763,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-write",
@@ -786,7 +786,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "waza-learn",
@@ -808,7 +808,7 @@
         "name": "Tw93"
       },
       "license": "MIT",
-      "version": "3.27.0"
+      "version": "3.28.1"
     },
     {
       "name": "design-extract",
@@ -910,7 +910,7 @@
         "name": "Boden Fuller"
       },
       "license": "Apache-2.0",
-      "version": "3.0.1"
+      "version": "3.1.0"
     },
     {
       "name": "understand-anything",
@@ -935,7 +935,7 @@
         "name": "Lum1104"
       },
       "license": "MIT",
-      "version": "2.7.6"
+      "version": "2.7.7"
     },
     {
       "name": "last30days",
@@ -961,7 +961,7 @@
       "author": {
         "name": "Matt Van Horn"
       },
-      "version": "3.3.1"
+      "version": "3.3.2"
     },
     {
       "name": "everything-claude-code",
@@ -987,7 +987,7 @@
         "name": "Affaan Mustafa"
       },
       "license": "MIT",
-      "version": "2.0.0-rc.1"
+      "version": "2.0.0"
     },
     {
       "name": "token-optimizer",
@@ -1010,7 +1010,7 @@
         "name": "Alex Greenshpun"
       },
       "license": "PolyForm-Noncommercial-1.0.0",
-      "version": "5.8.10"
+      "version": "5.11.8"
     },
     {
       "name": "marketingskills",
@@ -1039,7 +1039,7 @@
         "name": "Corey Haines"
       },
       "license": "MIT",
-      "version": "2.3.0"
+      "version": "2.4.1"
     },
     {
       "name": "obsidian-mind",
@@ -1175,7 +1175,7 @@
         "name": "Paul Bakaus"
       },
       "license": "Apache-2.0",
-      "version": "3.5.0"
+      "version": "3.9.0"
     },
     {
       "name": "caveman",
@@ -1202,7 +1202,7 @@
         "name": "Julius Brussee"
       },
       "license": "MIT",
-      "version": "1.8.2"
+      "version": "1.9.0"
     },
     {
       "name": "ui-ux-pro-max",
@@ -1252,7 +1252,7 @@
         "name": "Bernhard Goetzendorfer"
       },
       "license": "MIT",
-      "version": "3.8.0"
+      "version": "3.9.0"
     },
     {
       "name": "agent-wallet",
@@ -1275,7 +1275,7 @@
         "name": "AgentLayer"
       },
       "license": "PolyForm Small Business License 1.0.0",
-      "version": "0.1.43"
+      "version": "0.1.44"
     }
   ]
 }
