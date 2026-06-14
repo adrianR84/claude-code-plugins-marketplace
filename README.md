@@ -32,7 +32,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [my-mcps](#my-mcps) | 1.0.2 | adrianR84 | MCP server integrations |
 | [andrej-karpathy-skills](#andrej-karpathy-skills) | 1.0.2 | forrestchang | Behavioral guidelines to reduce LLM coding mistakes |
 | [claude-code-skills](#claude-code-skills) | 1.7.0 | AdrianR84 | A collection of skills for Claude Code |
-| [claude-mem](#claude-mem) | 13.4.0 | Alex Newman | Persistent memory system for Claude Code |
+| [claude-mem](#claude-mem) | 13.6.0 | Alex Newman | Persistent memory system for Claude Code |
 | [memsearch](#memsearch) | 0.7.3 | Zilliz | Automatic semantic memory for Claude Code |
 | [remember](#remember) | 0.7.3 | Digital Process Tools | Continuous memory for Claude Code |
 | [wiki-skills](#wiki-skills) | 1.0.0 | Kenny Chou | LLM-maintained personal wiki skills |
@@ -41,7 +41,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [minimal-claude](#minimal-claude) | 1.7.0 | KenKaiii | Auto-configures linting, typechecking, and fixing |
 | [tdd-guard](#tdd-guard) | 2.1.0 | Nizar Selander | Test-Driven Development enforcement |
 | [micro-skill-pipeline](#micro-skill-pipeline) | 1.0.0 | stevesolun | Gated micro-pipeline for quality checks |
-| [banana-claude](#banana-claude) | 1.4.1 | AgriciDaniel | AI image generation Creative Director |
+| [banana-claude](#banana-claude) | 2.2.0 | AgriciDaniel | AI image generation Creative Director |
 | [claude-seo](#claude-seo) | 2.0.0 | AgriciDaniel | Comprehensive SEO analysis skill |
 | [claude-ads](#claude-ads) | 1.7.0 | AgriciDaniel | Paid advertising audit & optimization |
 | [claude-obsidian](#claude-obsidian) | 1.9.2 | AgriciDaniel | Claude + Obsidian knowledge companion |
@@ -51,7 +51,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [atlas](#atlas) | 0.2.0 | pacifio | Atlas design language skill |
 | [beads](#beads) | 1.0.5 | Steve Yegge | Distributed graph issue tracker for AI agents |
 | [agent-session-resume](#agent-session-resume) | 1.0.0 | hacktivist123 | Reconstruct and continue prior AI coding-agent sessions |
-| [waza-health](#waza-health) | 3.27.0 | Tw93 | Audits Claude Code config stack |
+| [waza-health](#waza-health) | 3.28.1 | Tw93 | Audits Claude Code config stack |
 | [waza-think](#waza-think) | 3.28.1 | Tw93 | Turns rough ideas into approved plans |
 | [waza-check](#waza-check) | 3.28.1 | Tw93 | Reviews code diffs, auto-fixes safe issues |
 | [waza-hunt](#waza-hunt) | 3.28.1 | Tw93 | Finds root cause of errors and crashes |
@@ -254,7 +254,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/thedotmack/claude-mem" target="_blank">thedotmack/claude-mem</a>
 - **Keywords**: memory, persistence, context, session, compression
 - **License**: AGPL-3.0
-- **Version**: 13.4.0
+- **Version**: 13.6.0
 - **Installation**:
   ```bash
   /plugin install claude-mem@claude-code-awesome
@@ -407,7 +407,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/AgriciDaniel/banana-claude" target="_blank">AgriciDaniel/banana-claude</a>
 - **Keywords**: image-generation, ai-art, gemini, creative-director
 - **License**: MIT
-- **Version**: 1.4.1
+- **Version**: 2.2.0
 - **Installation**:
   ```bash
   /plugin install banana-claude@claude-code-awesome
@@ -577,7 +577,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Repository**: <a href="https://github.com/tw93/Waza" target="_blank">tw93/Waza</a>
 - **Keywords**: config, auditing, hooks, mcp, debugging
 - **License**: MIT
-- **Version**: 3.27.0
+- **Version**: 3.28.1
 - **Installation**:
   ```bash
   /plugin install waza-health@claude-code-awesome
