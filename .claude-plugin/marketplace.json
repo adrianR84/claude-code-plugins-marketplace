@@ -1276,6 +1276,28 @@
       },
       "license": "PolyForm Small Business License 1.0.0",
       "version": "0.1.44"
+    },
+    {
+      "name": "codex",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/codex-plugin-cc",
+        "path": "plugins/codex"
+      },
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "category": "development",
+      "repository": "https://github.com/openai/codex-plugin-cc",
+      "keywords": [
+        "codex",
+        "code-review",
+        "delegation",
+        "openai"
+      ],
+      "author": {
+        "name": "OpenAI"
+      },
+      "license": "Apache-2.0",
+      "version": "1.0.4"
     }
   ]
 }

@@ -78,6 +78,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [ui-ux-pro-max](#ui-ux-pro-max) | 2.5.0 | nextlevelbuilder | Professional UI/UX design intelligence with 67 styles |
 | [session-orchestrator](#session-orchestrator) | 3.9.0 | Bernhard Goetzendorfer | Wave planning and parallel subagent execution |
 | [agent-wallet](#agent-wallet) | 0.1.44 | AgentLayer | Claude Code bridge for AgentLayer wallet runtime |
+| [codex](#codex) | 1.0.4 | OpenAI | Use Codex from Claude Code to review code or delegate tasks |
 
 ### Telegram Notifications
 
@@ -1021,6 +1022,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install agent-wallet@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Codex
+
+- **Name**: `codex`
+- **Description**: Use Codex from Claude Code to review code or delegate tasks.
+- **Category**: Development
+- **Author**: OpenAI
+- **Repository**: <a href="https://github.com/openai/codex-plugin-cc" target="_blank">openai/codex-plugin-cc</a>
+- **Keywords**: codex, code-review, delegation, openai
+- **License**: Apache-2.0
+- **Version**: 1.0.4
+- **Installation**:
+  ```bash
+  /plugin install codex@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
