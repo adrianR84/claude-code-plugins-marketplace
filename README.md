@@ -79,6 +79,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [session-orchestrator](#session-orchestrator) | 3.9.0 | Bernhard Goetzendorfer | Wave planning and parallel subagent execution |
 | [agent-wallet](#agent-wallet) | 0.1.44 | AgentLayer | Claude Code bridge for AgentLayer wallet runtime |
 | [codex](#codex) | 1.0.4 | OpenAI | Use Codex from Claude Code to review code or delegate tasks |
+| [ponytail](#ponytail) | 4.6.0 | Dietrich Gebert | Forces the laziest solution that works. YAGNI, stdlib first.
 
 ### Telegram Notifications
 
@@ -1039,6 +1040,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install codex@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Ponytail
+
+- **Name**: `ponytail`
+- **Description**: Forces the laziest solution that works. YAGNI, stdlib first, one line over fifty.
+- **Category**: Productivity
+- **Author**: Dietrich Gebert
+- **Repository**: <a href="https://github.com/DietrichGebert/ponytail" target="_blank">DietrichGebert/ponytail</a>
+- **Keywords**: developer-tools, ai-agents, claude, yagni, llm, prompt-engineering, agent-skills, cursor-rules, claude-code, claude-code-plugin
+- **License**: MIT
+- **Version**: 4.6.0
+- **Installation**:
+  ```bash
+  /plugin install ponytail@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)

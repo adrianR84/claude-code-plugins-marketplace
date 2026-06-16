@@ -1298,6 +1298,33 @@
       },
       "license": "Apache-2.0",
       "version": "1.0.4"
+    },
+    {
+      "name": "ponytail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DietrichGebert/ponytail"
+      },
+      "description": "Forces the laziest solution that works. YAGNI, stdlib first, one line over fifty.",
+      "category": "productivity",
+      "repository": "https://github.com/DietrichGebert/ponytail",
+      "keywords": [
+        "developer-tools",
+        "ai-agents",
+        "claude",
+        "yagni",
+        "llm",
+        "prompt-engineering",
+        "agent-skills",
+        "cursor-rules",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "author": {
+        "name": "Dietrich Gebert"
+      },
+      "license": "MIT",
+      "version": "4.6.0"
     }
   ]
 }
