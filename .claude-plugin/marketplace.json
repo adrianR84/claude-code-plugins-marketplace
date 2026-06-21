@@ -1325,6 +1325,29 @@
       },
       "license": "MIT",
       "version": "4.6.0"
+    },
+    {
+      "name": "pixelbrowse",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/StarTrail-org/PixelRAG",
+        "path": "plugin"
+      },
+      "description": "Give Claude eyes — screenshot any URL with pixelshot and read it visually",
+      "category": "productivity",
+      "repository": "https://github.com/StarTrail-org/PixelRAG",
+      "keywords": [
+        "vision",
+        "multimodal",
+        "rag",
+        "screenshots",
+        "search"
+      ],
+      "author": {
+        "name": "Zhifei Li"
+      },
+      "license": "Apache-2.0",
+      "version": "0.1.0"
     }
   ]
 }

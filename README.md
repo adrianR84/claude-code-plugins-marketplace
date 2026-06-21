@@ -80,6 +80,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [agent-wallet](#agent-wallet) | 0.1.44 | AgentLayer | Claude Code bridge for AgentLayer wallet runtime |
 | [codex](#codex) | 1.0.4 | OpenAI | Use Codex from Claude Code to review code or delegate tasks |
 | [ponytail](#ponytail) | 4.6.0 | Dietrich Gebert | Forces the laziest solution that works. YAGNI, stdlib first.
+| [pixelbrowse](#pixelbrowse) | 0.1.0 | Zhifei Li | Screenshot any URL with pixelshot and read it visually
 
 ### Telegram Notifications
 
@@ -1057,6 +1058,23 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install ponytail@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### PixelBrowse
+
+- **Name**: `pixelbrowse`
+- **Description**: Give Claude eyes — screenshot any URL with pixelshot and read it visually
+- **Category**: Productivity
+- **Author**: Zhifei Li
+- **Repository**: <a href="https://github.com/StarTrail-org/PixelRAG" target="_blank">StarTrail-org/PixelRAG</a>
+- **Keywords**: vision, multimodal, rag, screenshots, search
+- **License**: Apache-2.0
+- **Version**: 0.1.0
+- **Installation**:
+  ```bash
+  /plugin install pixelbrowse@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
