@@ -81,6 +81,7 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [codex](#codex) | 1.0.4 | OpenAI | Use Codex from Claude Code to review code or delegate tasks |
 | [ponytail](#ponytail) | 4.6.0 | Dietrich Gebert | Forces the laziest solution that works. YAGNI, stdlib first.
 | [pixelbrowse](#pixelbrowse) | 0.1.0 | Zhifei Li | Screenshot any URL with pixelshot and read it visually
+| [improve](#improve) | — | shadcn | Audits codebases and writes implementation plans for agents
 
 ### Telegram Notifications
 
@@ -1075,6 +1076,22 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install pixelbrowse@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Improve
+
+- **Name**: `improve`
+- **Description**: Audits codebases and writes self-contained implementation plans in markdown for other agents to execute. Supports /improve, /improve quick, /improve security, /improve execute and more.
+- **Category**: Development
+- **Author**: shadcn
+- **Repository**: <a href="https://github.com/shadcn/improve" target="_blank">shadcn/improve</a>
+- **Keywords**: audit, code-review, planning, agent-skills, security, performance
+- **License**: MIT
+- **Installation**:
+  ```bash
+  /plugin install improve@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)

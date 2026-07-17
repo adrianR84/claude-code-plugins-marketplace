@@ -1348,6 +1348,28 @@
       },
       "license": "Apache-2.0",
       "version": "0.1.0"
+    },
+    {
+      "name": "improve",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shadcn/improve"
+      },
+      "description": "Audits codebases and writes self-contained implementation plans in markdown for other agents to execute. Supports /improve, /improve quick, /improve security, /improve execute and more.",
+      "category": "development",
+      "repository": "https://github.com/shadcn/improve",
+      "keywords": [
+        "audit",
+        "code-review",
+        "planning",
+        "agent-skills",
+        "security",
+        "performance"
+      ],
+      "author": {
+        "name": "shadcn"
+      },
+      "license": "MIT"
     }
   ]
 }
