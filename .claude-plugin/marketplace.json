@@ -1370,6 +1370,53 @@
         "name": "shadcn"
       },
       "license": "MIT"
+    },
+    {
+      "name": "claude-video",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bradautomates/claude-video"
+      },
+      "description": "Give Claude the ability to watch any video. The /watch command downloads videos via yt-dlp, extracts frames via ffmpeg, transcribes audio with Whisper, and presents everything for analysis.",
+      "category": "productivity",
+      "repository": "https://github.com/bradautomates/claude-video",
+      "keywords": [
+        "video",
+        "multimodal",
+        "transcription",
+        "youtube",
+        "ffmpeg",
+        "whisper"
+      ],
+      "author": {
+        "name": "Brad Bonanno"
+      },
+      "license": "MIT",
+      "version": "0.2.0"
+    },
+    {
+      "name": "taste-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+      },
+      "description": "Anti-slop frontend design taste skills — brutalist, minimalist, soft, redesign, stitch, and more. Gives AI good taste to stop generic output.",
+      "category": "design",
+      "repository": "https://github.com/Leonxlnx/taste-skill",
+      "keywords": [
+        "design",
+        "frontend",
+        "ui",
+        "taste",
+        "typography",
+        "layout",
+        "motion"
+      ],
+      "author": {
+        "name": "leonxlnx"
+      },
+      "license": "MIT",
+      "version": "1.0.0"
     }
   ]
 }

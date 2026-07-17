@@ -82,6 +82,8 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 | [ponytail](#ponytail) | 4.6.0 | Dietrich Gebert | Forces the laziest solution that works. YAGNI, stdlib first.
 | [pixelbrowse](#pixelbrowse) | 0.1.0 | Zhifei Li | Screenshot any URL with pixelshot and read it visually
 | [improve](#improve) | — | shadcn | Audits codebases and writes implementation plans for agents
+| [claude-video](#claude-video) | 0.2.0 | Brad Bonanno | Give Claude the ability to watch and analyze any video
+| [taste-skill](#taste-skill) | 1.0.0 | leonxlnx | Anti-slop frontend design taste skills — brutalist, minimalist, soft, and more
 
 ### Telegram Notifications
 
@@ -1092,6 +1094,40 @@ You should see `claude-code-awesome` in the list of available marketplaces.
 - **Installation**:
   ```bash
   /plugin install improve@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Claude Video
+
+- **Name**: `claude-video`
+- **Description**: Give Claude the ability to watch any video. The /watch command downloads videos via yt-dlp, extracts frames via ffmpeg, transcribes audio with Whisper, and presents everything for analysis.
+- **Category**: Productivity
+- **Author**: Brad Bonanno
+- **Repository**: <a href="https://github.com/bradautomates/claude-video" target="_blank">bradautomates/claude-video</a>
+- **Keywords**: video, multimodal, transcription, youtube, ffmpeg, whisper
+- **License**: MIT
+- **Version**: 0.2.0
+- **Installation**:
+  ```bash
+  /plugin install claude-video@claude-code-awesome
+  ```
+
+[← Back to Available Plugins](#-available-plugins)
+
+### Taste Skill
+
+- **Name**: `taste-skill`
+- **Description**: Anti-slop frontend design taste skills — brutalist, minimalist, soft, redesign, stitch, and more. Gives AI good taste to stop generic output.
+- **Category**: Design
+- **Author**: leonxlnx
+- **Repository**: <a href="https://github.com/Leonxlnx/taste-skill" target="_blank">Leonxlnx/taste-skill</a>
+- **Keywords**: design, frontend, ui, taste, typography, layout, motion
+- **License**: MIT
+- **Version**: 1.0.0
+- **Installation**:
+  ```bash
+  /plugin install taste-skill@claude-code-awesome
   ```
 
 [← Back to Available Plugins](#-available-plugins)
